@@ -1,0 +1,2 @@
+1 - ATMEGA328P-AU SMD - Microcontrolador
+2 - 
