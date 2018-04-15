@@ -1,14 +1,14 @@
 # Arduino Projects
 
-Coomponent testing, small projects and experiments!
+Component testing, small projects and experiments!
 
-## Model
+## Board Model
 
 Arduino Uno R3 official model
 
 ## My Components List
 
-* LED
+* LED's
   * Red
   * Green
   * Yellow
@@ -26,7 +26,7 @@ Arduino Uno R3 official model
   * LDR luminosity
   * Tilt
 
-* COMMUNICATION
+* COMMUNICATIONS
   * LCD 16x2
   * Passive buzzer
   * Potentiometer Trimpot 10kohms
@@ -35,4 +35,4 @@ Arduino Uno R3 official model
   * 9G SG90 TowerPro
   * Relay
 
-_And a lot of resistors, capacitors, connectors,  buttons, keys and other stuffs_
+_+ a lot of resistors, capacitors, connectors,  buttons, keys and other stuffs_
